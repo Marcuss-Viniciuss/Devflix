@@ -33,7 +33,7 @@ body {
 }
 
 .banner {
-    background-image: url('codigo.png');
+    background-image: url('img/codigo.png');
     background-size: cover;
     background-position: center center;
     color: #fff;
